@@ -12,7 +12,7 @@ install_requires = [
     "brotli_asgi",
     "stac-fastapi.types",
     "pygeoif==0.7",
-    "azure-core==1.25.1",
+    "azure-core==1.38.0",
     "azure-storage-blob==12.13.1"
 ]
 
